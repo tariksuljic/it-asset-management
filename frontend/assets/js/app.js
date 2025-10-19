@@ -1,6 +1,6 @@
 var app = $.spapp({
     defaultView: "assets",
-    templateDir: "../../views/"
+    templateDir: "views/"
 
 });
 
